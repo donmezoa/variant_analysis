@@ -1,0 +1,2338 @@
+Processing gene: ABL1
+  Total SNPs reported: 73321
+  Found 73321 SNPs in chr9:130713042-130887674
+  Limited to 2 SNPs.
+Processing gene: ABL2
+  Total SNPs reported: 54424
+  Found 54424 SNPs in chr1:179099329-179229676
+  Limited to 2 SNPs.
+Processing gene: ABRAXAS1
+  Total SNPs reported: 11763
+  Found 11763 SNPs in chr4:83459516-83485099
+  Limited to 2 SNPs.
+Processing gene: ACVR1
+  Total SNPs reported: 53151
+  Found 53151 SNPs in chr2:157736445-157876329
+  Limited to 2 SNPs.
+Processing gene: ACVR1B
+  Total SNPs reported: 19206
+  Found 19206 SNPs in chr12:51951698-51997077
+  Limited to 2 SNPs.
+Processing gene: ADGRA2
+  Total SNPs reported: 22549
+  Found 22549 SNPs in chr8:37796882-37844895
+  Limited to 2 SNPs.
+Processing gene: AKT1
+  Total SNPs reported: 14516
+  Found 14516 SNPs in chr14:104769348-104795747
+  Limited to 2 SNPs.
+Processing gene: AKT2
+  Total SNPs reported: 24685
+  Found 24685 SNPs in chr19:40230316-40285344
+  Limited to 2 SNPs.
+Processing gene: AKT3
+  Total SNPs reported: 147131
+  Found 147131 SNPs in chr1:243488232-243851078
+  Limited to 2 SNPs.
+Processing gene: ALK
+  Total SNPs reported: 300811
+  Found 300811 SNPs in chr2:29192773-29921585
+  Limited to 2 SNPs.
+Processing gene: AMER1
+  Total SNPs reported: 9155
+  Found 9155 SNPs in chrX:64185116-64205707
+  Limited to 2 SNPs.
+Processing gene: APC
+  Total SNPs reported: 68710
+  Found 68710 SNPs in chr5:112707497-112846238
+  Limited to 2 SNPs.
+Processing gene: AR
+  Total SNPs reported: 63253
+  Found 63253 SNPs in chrX:67544020-67730618
+  Limited to 2 SNPs.
+Processing gene: ARAF
+  Total SNPs reported: 4605
+  Found 4605 SNPs in chrX:47561204-47571907
+  Limited to 2 SNPs.
+Processing gene: ARFRP1
+  Total SNPs reported: 5843
+  Found 5843 SNPs in chr20:63698646-63707975
+  Limited to 2 SNPs.
+Processing gene: ARHGAP26
+  Total SNPs reported: 175836
+  Found 175836 SNPs in chr5:142770376-143229010
+  Limited to 2 SNPs.
+Processing gene: ARID1A
+  Total SNPs reported: 42553
+  Found 42553 SNPs in chr1:26696014-26782103
+  Limited to 2 SNPs.
+Processing gene: ARID1B
+  Total SNPs reported: 178817
+  Found 178817 SNPs in chr6:156776025-157210778
+  Limited to 2 SNPs.
+Processing gene: ARID2
+  Total SNPs reported: 73133
+  Found 73133 SNPs in chr12:45729705-45908036
+  Limited to 2 SNPs.
+Processing gene: ASXL1
+  Total SNPs reported: 37333
+  Found 37333 SNPs in chr20:32358330-32439318
+  Limited to 2 SNPs.
+Processing gene: ATM
+  Total SNPs reported: 74646
+  Found 74646 SNPs in chr11:108223066-108369101
+  Limited to 2 SNPs.
+Processing gene: ATR
+  Total SNPs reported: 55829
+  Found 55829 SNPs in chr3:142449234-142578732
+  Limited to 2 SNPs.
+Processing gene: ATRX
+  Total SNPs reported: 88576
+  Found 88576 SNPs in chrX:77504879-77786215
+  Limited to 2 SNPs.
+Processing gene: AURKA
+  Total SNPs reported: 9890
+  Found 9890 SNPs in chr20:56369389-56392214
+  Limited to 2 SNPs.
+Processing gene: AURKB
+  Total SNPs reported: 3309
+  Found 3309 SNPs in chr17:8204730-8210574
+  Limited to 2 SNPs.
+Processing gene: AXIN1
+  Total SNPs reported: 35390
+  Found 35390 SNPs in chr16:287439-352722
+  Limited to 2 SNPs.
+Processing gene: AXIN2
+  Total SNPs reported: 17140
+  Found 17140 SNPs in chr17:65528562-65561647
+  Limited to 2 SNPs.
+Processing gene: AXL
+  Total SNPs reported: 19813
+  Found 19813 SNPs in chr19:41219222-41261765
+  Limited to 2 SNPs.
+Processing gene: B2M
+  Total SNPs reported: 3090
+  Found 3090 SNPs in chr15:44711516-44718144
+  Limited to 2 SNPs.
+Processing gene: BAP1
+  Total SNPs reported: 7030
+  Found 7030 SNPs in chr3:52401007-52410007
+  Limited to 2 SNPs.
+Processing gene: BARD1
+  Total SNPs reported: 37372
+  Found 37372 SNPs in chr2:214725645-214809682
+  Limited to 2 SNPs.
+Processing gene: BCL10
+  Total SNPs reported: 4564
+  Found 4564 SNPs in chr1:85265775-85276631
+  Limited to 2 SNPs.
+Processing gene: BCL11B
+  Total SNPs reported: 42517
+  Found 42517 SNPs in chr14:99169286-99272196
+  Limited to 2 SNPs.
+Processing gene: BCL2
+  Total SNPs reported: 76262
+  Found 76262 SNPs in chr18:63123345-63320089
+  Limited to 2 SNPs.
+Processing gene: BCL2L1
+  Total SNPs reported: 22920
+  Found 22920 SNPs in chr20:31664451-31723962
+  Limited to 2 SNPs.
+Processing gene: BCL2L2
+  Total SNPs reported: 2410
+  Found 2410 SNPs in chr14:23306832-23311750
+  Limited to 2 SNPs.
+Processing gene: BCL6
+  Total SNPs reported: 11830
+  Found 11830 SNPs in chr3:187721376-187745467
+  Limited to 2 SNPs.
+Processing gene: BCL7A
+  Total SNPs reported: 19212
+  Found 19212 SNPs in chr12:122021883-122062043
+  Limited to 2 SNPs.
+Processing gene: BCOR
+  Total SNPs reported: 44112
+  Found 44112 SNPs in chrX:40051245-40177328
+  Limited to 2 SNPs.
+Processing gene: BCORL1
+  Total SNPs reported: 23645
+  Found 23645 SNPs in chrX:129980312-130058070
+  Limited to 2 SNPs.
+Processing gene: BCR
+  Total SNPs reported: 62744
+  Found 62744 SNPs in chr22:23180508-23318036
+  Limited to 2 SNPs.
+Processing gene: BIRC3
+  Total SNPs reported: 9676
+  Found 9676 SNPs in chr11:102317483-102339402
+  Limited to 2 SNPs.
+Processing gene: BLM
+  Total SNPs reported: 42180
+  Found 42180 SNPs in chr15:90717345-90816165
+  Limited to 2 SNPs.
+Processing gene: BMPR1A
+  Total SNPs reported: 73673
+  Found 73673 SNPs in chr10:86755762-86932843
+  Limited to 2 SNPs.
+Processing gene: BRAF
+  Total SNPs reported: 88785
+  Found 88785 SNPs in chr7:140713327-140924928
+  Limited to 2 SNPs.
+Processing gene: BRCA1
+  Total SNPs reported: 61464
+  Found 61464 SNPs in chr17:43044294-43170326
+  Limited to 2 SNPs.
+Processing gene: BRCA2
+  Total SNPs reported: 46906
+  Found 46906 SNPs in chr13:32315076-32400267
+  Limited to 2 SNPs.
+Processing gene: BRCC3
+  Total SNPs reported: 14104
+  Found 14104 SNPs in chrX:155071507-155123076
+  Limited to 2 SNPs.
+Processing gene: BRD3
+  Total SNPs reported: 19674
+  Found 19674 SNPs in chr9:134030304-134068547
+  Limited to 2 SNPs.
+Processing gene: BRD4
+  Total SNPs reported: 50982
+  Found 50982 SNPs in chr19:15235518-15332538
+  Limited to 2 SNPs.
+Processing gene: BRINP3
+  Total SNPs reported: 162698
+  Found 162698 SNPs in chr1:190097657-190477863
+  Limited to 2 SNPs.
+Processing gene: BRIP1
+  Total SNPs reported: 70347
+  Found 70347 SNPs in chr17:61679138-61863527
+  Limited to 2 SNPs.
+Processing gene: BTG1
+  Total SNPs reported: 987
+  Found 987 SNPs in chr4:73986438-73988189
+  Limited to 2 SNPs.
+Processing gene: BTK
+  Total SNPs reported: 13055
+  Found 13055 SNPs in chrX:101349449-101390795
+  Limited to 2 SNPs.
+Processing gene: BUB1B
+  Total SNPs reported: 25276
+  Found 25276 SNPs in chr15:40161068-40221122
+  Limited to 2 SNPs.
+Processing gene: C11ORF95
+  Total SNPs reported: 5424
+  Found 5424 SNPs in chr11:63759891-63768774
+  Limited to 2 SNPs.
+Processing gene: C19MC
+  Gene ID not found.
+Processing gene: CALR
+  Total SNPs reported: 3757
+  Found 3757 SNPs in chr19:12938608-12944488
+  Limited to 2 SNPs.
+Processing gene: CAMTA1
+  Total SNPs reported: 392541
+  Found 392541 SNPs in chr1:6785453-7769705
+  Limited to 2 SNPs.
+Processing gene: CARD11
+  Total SNPs reported: 67146
+  Found 67146 SNPs in chr7:2906141-3043866
+  Limited to 2 SNPs.
+Processing gene: CASP8
+  Total SNPs reported: 23098
+  Found 23098 SNPs in chr2:201233462-201287710
+  Limited to 2 SNPs.
+Processing gene: CBFB
+  Total SNPs reported: 30872
+  Found 30872 SNPs in chr16:67029148-67101057
+  Limited to 2 SNPs.
+Processing gene: CBL
+  Total SNPs reported: 44550
+  Found 44550 SNPs in chr11:119206338-119308148
+  Limited to 2 SNPs.
+Processing gene: CBLB
+  Total SNPs reported: 85080
+  Found 85080 SNPs in chr3:105655460-105869448
+  Limited to 2 SNPs.
+Processing gene: CBLC
+  Total SNPs reported: 6313
+  Found 6313 SNPs in chr1:45500299-45513381
+  Limited to 2 SNPs.
+Processing gene: CCN6
+  Total SNPs reported: 7234
+  Found 7234 SNPs in chr6:112052812-112069685
+  Limited to 2 SNPs.
+Processing gene: CCND1
+  Total SNPs reported: 7359
+  Found 7359 SNPs in chr11:69641155-69654473
+  Limited to 2 SNPs.
+Processing gene: CCND2
+  Total SNPs reported: 13624
+  Found 13624 SNPs in chr12:4273761-4305352
+  Limited to 2 SNPs.
+Processing gene: CCND3
+  Total SNPs reported: 47239
+  Found 47239 SNPs in chr6:41934932-42050034
+  Limited to 2 SNPs.
+Processing gene: CCNE1
+  Total SNPs reported: 6592
+  Found 6592 SNPs in chr19:29811990-29824311
+  Limited to 2 SNPs.
+Processing gene: CD19
+  Total SNPs reported: 4040
+  Found 4040 SNPs in chr16:28931970-28939341
+  Limited to 2 SNPs.
+Processing gene: CD274
+  Total SNPs reported: 9654
+  Found 9654 SNPs in chr9:5450541-5470553
+  Limited to 2 SNPs.
+Processing gene: CD28
+  Total SNPs reported: 12375
+  Found 12375 SNPs in chr2:203706481-203738911
+  Limited to 2 SNPs.
+Processing gene: CD40
+  Total SNPs reported: 5217
+  Found 5217 SNPs in chr20:46118313-46129857
+  Limited to 2 SNPs.
+Processing gene: CD58
+  Total SNPs reported: 20604
+  Found 20604 SNPs in chr1:116514533-116571025
+  Limited to 2 SNPs.
+Processing gene: CD79A
+  Total SNPs reported: 2233
+  Found 2233 SNPs in chr19:41877278-41881371
+  Limited to 2 SNPs.
+Processing gene: CD79B
+  Total SNPs reported: 2121
+  Found 2121 SNPs in chr17:63928739-63932330
+  Limited to 2 SNPs.
+Processing gene: CDC73
+  Total SNPs reported: 56824
+  Found 56824 SNPs in chr1:193122030-193254814
+  Limited to 2 SNPs.
+Processing gene: CDH1
+  Total SNPs reported: 44328
+  Found 44328 SNPs in chr16:68737291-68835536
+  Limited to 2 SNPs.
+Processing gene: CDK12
+  Total SNPs reported: 47018
+  Found 47018 SNPs in chr17:39461485-39567558
+  Limited to 2 SNPs.
+Processing gene: CDK4
+  Total SNPs reported: 3428
+  Found 3428 SNPs in chr12:57747726-57752309
+  Limited to 2 SNPs.
+Processing gene: CDK6
+  Total SNPs reported: 85915
+  Found 85915 SNPs in chr7:92604920-92836572
+  Limited to 2 SNPs.
+Processing gene: CDK8
+  Total SNPs reported: 57172
+  Found 57172 SNPs in chr13:26254128-26405237
+  Limited to 2 SNPs.
+Processing gene: CDKN1A
+  Total SNPs reported: 5289
+  Found 5289 SNPs in chr6:36676462-36687331
+  Limited to 2 SNPs.
+Processing gene: CDKN1B
+  Total SNPs reported: 3080
+  Found 3080 SNPs in chr12:12717367-12722368
+  Limited to 2 SNPs.
+Processing gene: CDKN2A
+  Total SNPs reported: 13638
+  Found 13638 SNPs in chr9:21967751-21995323
+  Limited to 2 SNPs.
+Processing gene: CDKN2B
+  Total SNPs reported: 3271
+  Found 3271 SNPs in chr9:22002902-22009312
+  Limited to 2 SNPs.
+Processing gene: CDKN2C
+  Total SNPs reported: 5597
+  Found 5597 SNPs in chr1:50960744-50974633
+  Limited to 2 SNPs.
+Processing gene: CEBPA
+  Total SNPs reported: 1976
+  Found 1976 SNPs in chr19:33299933-33302533
+  Limited to 2 SNPs.
+Processing gene: CHD2
+  Total SNPs reported: 58070
+  Found 58070 SNPs in chr15:92900323-93027995
+  Limited to 2 SNPs.
+Processing gene: CHD4
+  Total SNPs reported: 20449
+  Found 20449 SNPs in chr12:6570081-6607378
+  Limited to 2 SNPs.
+Processing gene: CHEK1
+  Total SNPs reported: 23004
+  Found 23004 SNPs in chr11:125625135-125681123
+  Limited to 2 SNPs.
+Processing gene: CHEK2
+  Total SNPs reported: 25239
+  Found 25239 SNPs in chr22:28687742-28741833
+  Limited to 2 SNPs.
+Processing gene: CHIC2
+  Total SNPs reported: 33144
+  Found 33144 SNPs in chr4:54009788-54091878
+  Limited to 2 SNPs.
+Processing gene: CIC
+  Total SNPs reported: 15160
+  Found 15160 SNPs in chr19:42268529-42295795
+  Limited to 2 SNPs.
+Processing gene: CIITA
+  Total SNPs reported: 37094
+  Found 37094 SNPs in chr16:10866205-10943020
+  Limited to 2 SNPs.
+Processing gene: COL1A1
+  Total SNPs reported: 11699
+  Found 11699 SNPs in chr17:50184100-50201630
+  Limited to 2 SNPs.
+Processing gene: CREBBP
+  Total SNPs reported: 79534
+  Found 79534 SNPs in chr16:3725053-3880712
+  Limited to 2 SNPs.
+Processing gene: CRKL
+  Total SNPs reported: 17087
+  Found 17087 SNPs in chr22:20917406-20953746
+  Limited to 2 SNPs.
+Processing gene: CRLF2
+  Total SNPs reported: 0
+  Found 0 SNPs in chrX:1190489-1212648
+  Limited to 2 SNPs.
+Processing gene: CSF1R
+  Total SNPs reported: 27365
+  Found 27365 SNPs in chr5:150053294-150113364
+  Limited to 2 SNPs.
+Processing gene: CSF3R
+  Total SNPs reported: 8495
+  Found 8495 SNPs in chr1:36466042-36483313
+  Limited to 2 SNPs.
+Processing gene: CSNK1A1
+  Total SNPs reported: 25074
+  Found 25074 SNPs in chr5:149492981-149551438
+  Limited to 2 SNPs.
+Processing gene: CTCF
+  Total SNPs reported: 37591
+  Found 37591 SNPs in chr16:67562525-67639184
+  Limited to 2 SNPs.
+Processing gene: CTLA4
+  Total SNPs reported: 2786
+  Found 2786 SNPs in chr2:203867770-203873964
+  Limited to 2 SNPs.
+Processing gene: CTNNA1
+  Total SNPs reported: 76339
+  Found 76339 SNPs in chr5:138753424-138935033
+  Limited to 2 SNPs.
+Processing gene: CTNNB1
+  Total SNPs reported: 19811
+  Found 19811 SNPs in chr3:41199504-41240442
+  Limited to 2 SNPs.
+Processing gene: CUL3
+  Total SNPs reported: 50759
+  Found 50759 SNPs in chr2:224470149-224585362
+  Limited to 2 SNPs.
+Processing gene: CUX1
+  Total SNPs reported: 196705
+  Found 196705 SNPs in chr7:101816006-102283957
+  Limited to 2 SNPs.
+Processing gene: CXCR4
+  Total SNPs reported: 2394
+  Found 2394 SNPs in chr2:136114348-136118148
+  Limited to 2 SNPs.
+Processing gene: CYLD
+  Total SNPs reported: 23298
+  Found 23298 SNPs in chr16:50742085-50801934
+  Limited to 2 SNPs.
+Processing gene: DAXX
+  Total SNPs reported: 3251
+  Found 3251 SNPs in chr6:33318557-33322958
+  Limited to 2 SNPs.
+Processing gene: DDR2
+  Total SNPs reported: 60852
+  Found 60852 SNPs in chr1:162630862-162787404
+  Limited to 2 SNPs.
+Processing gene: DDX3X
+  Total SNPs reported: 12801
+  Found 12801 SNPs in chrX:41333307-41364471
+  Limited to 2 SNPs.
+Processing gene: DDX41
+  Total SNPs reported: 3736
+  Found 3736 SNPs in chr5:177511576-177516960
+  Limited to 2 SNPs.
+Processing gene: DEK
+  Total SNPs reported: 19541
+  Found 19541 SNPs in chr6:18223859-18264529
+  Limited to 2 SNPs.
+Processing gene: DGCR8
+  Total SNPs reported: 15128
+  Found 15128 SNPs in chr22:20080240-20111871
+  Limited to 2 SNPs.
+Processing gene: DICER1
+  Total SNPs reported: 33013
+  Found 33013 SNPs in chr14:95086227-95158009
+  Limited to 2 SNPs.
+Processing gene: DNAJB1
+  Total SNPs reported: 22444
+  Found 22444 SNPs in chr19:14514768-14560390
+  Limited to 2 SNPs.
+Processing gene: DNM2
+  Total SNPs reported: 50561
+  Found 50561 SNPs in chr19:10718078-10831902
+  Limited to 2 SNPs.
+Processing gene: DNMT3A
+  Total SNPs reported: 49323
+  Found 49323 SNPs in chr2:25227873-25342589
+  Limited to 2 SNPs.
+Processing gene: DOT1L
+  Total SNPs reported: 39056
+  Found 39056 SNPs in chr19:2163932-2232577
+  Limited to 2 SNPs.
+Processing gene: DROSHA
+  Total SNPs reported: 50446
+  Found 50446 SNPs in chr5:31400493-31532092
+  Limited to 2 SNPs.
+Processing gene: DUSP22
+  Total SNPs reported: 34623
+  Found 34623 SNPs in chr6:292486-351354
+  Limited to 2 SNPs.
+Processing gene: EBF1
+  Total SNPs reported: 156125
+  Found 156125 SNPs in chr5:158695919-159099915
+  Limited to 2 SNPs.
+Processing gene: EED
+  Total SNPs reported: 18207
+  Found 18207 SNPs in chr11:86244752-86287614
+  Limited to 2 SNPs.
+Processing gene: EFNB2
+  Total SNPs reported: 18217
+  Found 18217 SNPs in chr13:106489744-106535661
+  Limited to 2 SNPs.
+Processing gene: EGFR
+  Total SNPs reported: 84403
+  Found 84403 SNPs in chr7:55019016-55211627
+  Limited to 2 SNPs.
+Processing gene: EGR2
+  Total SNPs reported: 3672
+  Found 3672 SNPs in chr10:62811995-62819166
+  Limited to 2 SNPs.
+Processing gene: EIF1AX
+  Total SNPs reported: 6099
+  Found 6099 SNPs in chrX:20124524-20141837
+  Limited to 2 SNPs.
+Processing gene: ELOC
+  Total SNPs reported: 11903
+  Found 11903 SNPs in chr8:73945118-73972286
+  Limited to 2 SNPs.
+Processing gene: EMSY
+  Total SNPs reported: 42220
+  Found 42220 SNPs in chr11:76445017-76553030
+  Limited to 2 SNPs.
+Processing gene: EP300
+  Total SNPs reported: 49342
+  Found 49342 SNPs in chr22:41092591-41180076
+  Limited to 2 SNPs.
+Processing gene: EPC1
+  Total SNPs reported: 8447
+  Found 8447 SNPs in chr17:1762059-1777564
+  Limited to 2 SNPs.
+Processing gene: EPCAM
+  Total SNPs reported: 11014
+  Found 11014 SNPs in chr2:47369310-47387019
+  Limited to 2 SNPs.
+Processing gene: EPHA3
+  Total SNPs reported: 153525
+  Found 153525 SNPs in chr3:89107620-89482133
+  Limited to 2 SNPs.
+Processing gene: EPHA5
+  Total SNPs reported: 158968
+  Found 158968 SNPs in chr4:65319566-65670488
+  Limited to 2 SNPs.
+Processing gene: EPHA7
+  Total SNPs reported: 71739
+  Found 71739 SNPs in chr6:93240019-93419558
+  Limited to 2 SNPs.
+Processing gene: EPHB1
+  Total SNPs reported: 183605
+  Found 183605 SNPs in chr3:134795259-135260466
+  Limited to 2 SNPs.
+Processing gene: EPHB4
+  Total SNPs reported: 13644
+  Found 13644 SNPs in chr7:100802564-100827522
+  Limited to 2 SNPs.
+Processing gene: EPOR
+  Total SNPs reported: 4097
+  Found 4097 SNPs in chr19:11377206-11384313
+  Limited to 2 SNPs.
+Processing gene: ERBB2
+  Total SNPs reported: 21940
+  Found 21940 SNPs in chr17:39688093-39728657
+  Limited to 2 SNPs.
+Processing gene: ERBB3
+  Total SNPs reported: 13527
+  Found 13527 SNPs in chr12:56080107-56103504
+  Limited to 2 SNPs.
+Processing gene: ERBB4
+  Total SNPs reported: 483060
+  Found 483060 SNPs in chr2:211375716-212538801
+  Limited to 2 SNPs.
+Processing gene: ERCC1
+  Total SNPs reported: 20672
+  Found 20672 SNPs in chr19:45407333-45451546
+  Limited to 2 SNPs.
+Processing gene: ERCC2
+  Total SNPs reported: 13684
+  Found 13684 SNPs in chr19:45349836-45370572
+  Limited to 2 SNPs.
+Processing gene: ERCC3
+  Total SNPs reported: 16350
+  Found 16350 SNPs in chr2:127257289-127294143
+  Limited to 2 SNPs.
+Processing gene: ERCC4
+  Total SNPs reported: 14726
+  Found 14726 SNPs in chr16:13920153-13952347
+  Limited to 2 SNPs.
+Processing gene: ERCC5
+  Total SNPs reported: 13737
+  Found 13737 SNPs in chr13:102846031-102875994
+  Limited to 2 SNPs.
+Processing gene: ERG
+  Total SNPs reported: 114425
+  Found 114425 SNPs in chr21:38367260-38661782
+  Limited to 2 SNPs.
+Processing gene: ERRFI1
+  Total SNPs reported: 6410
+  Found 6410 SNPs in chr1:8011726-8026308
+  Limited to 2 SNPs.
+Processing gene: ESR1
+  Total SNPs reported: 179663
+  Found 179663 SNPs in chr6:151656671-152129618
+  Limited to 2 SNPs.
+Processing gene: ETNK1
+  Total SNPs reported: 25035
+  Found 25035 SNPs in chr12:22625170-22690664
+  Limited to 2 SNPs.
+Processing gene: ETS1
+  Total SNPs reported: 50104
+  Found 50104 SNPs in chr11:128458764-128587557
+  Limited to 2 SNPs.
+Processing gene: ETV1
+  Total SNPs reported: 45935
+  Found 45935 SNPs in chr7:13891228-13991424
+  Limited to 2 SNPs.
+Processing gene: ETV4
+  Total SNPs reported: 8761
+  Found 8761 SNPs in chr17:43527845-43546339
+  Limited to 2 SNPs.
+Processing gene: ETV5
+  Total SNPs reported: 24513
+  Found 24513 SNPs in chr3:186046313-186109088
+  Limited to 2 SNPs.
+Processing gene: ETV6
+  Total SNPs reported: 103060
+  Found 103060 SNPs in chr12:11649673-11895376
+  Limited to 2 SNPs.
+Processing gene: EWSR1
+  Total SNPs reported: 17252
+  Found 17252 SNPs in chr22:29268267-29300520
+  Limited to 2 SNPs.
+Processing gene: EXT1
+  Total SNPs reported: 124252
+  Found 124252 SNPs in chr8:117794489-118111825
+  Limited to 2 SNPs.
+Processing gene: EZH2
+  Total SNPs reported: 35719
+  Found 35719 SNPs in chr7:148807382-148884290
+  Limited to 2 SNPs.
+Processing gene: FANCA
+  Total SNPs reported: 52190
+  Found 52190 SNPs in chr16:89737548-89816646
+  Limited to 2 SNPs.
+Processing gene: FANCC
+  Total SNPs reported: 88180
+  Found 88180 SNPs in chr9:95099053-95317708
+  Limited to 2 SNPs.
+Processing gene: FANCD2
+  Total SNPs reported: 37336
+  Found 37336 SNPs in chr3:10026436-10101931
+  Limited to 2 SNPs.
+Processing gene: FANCE
+  Total SNPs reported: 7265
+  Found 7265 SNPs in chr6:35452337-35467101
+  Limited to 2 SNPs.
+Processing gene: FANCF
+  Total SNPs reported: 1959
+  Found 1959 SNPs in chr11:22622532-22625822
+  Limited to 2 SNPs.
+Processing gene: FANCG
+  Total SNPs reported: 4196
+  Found 4196 SNPs in chr9:35073838-35079941
+  Limited to 2 SNPs.
+Processing gene: FANCL
+  Total SNPs reported: 39006
+  Found 39006 SNPs in chr2:58159242-58241379
+  Limited to 2 SNPs.
+Processing gene: FANCM
+  Total SNPs reported: 29227
+  Found 29227 SNPs in chr14:45135929-45200889
+  Limited to 2 SNPs.
+Processing gene: FAS
+  Total SNPs reported: 21271
+  Found 21271 SNPs in chr10:88964049-89017058
+  Limited to 2 SNPs.
+Processing gene: FAT1
+  Total SNPs reported: 68491
+  Found 68491 SNPs in chr4:186587793-186726695
+  Limited to 2 SNPs.
+Processing gene: FAT3
+  Total SNPs reported: 269382
+  Found 269382 SNPs in chr11:92224817-92896472
+  Limited to 2 SNPs.
+Processing gene: FBXO11
+  Total SNPs reported: 54823
+  Found 54823 SNPs in chr2:47806919-47906497
+  Limited to 2 SNPs.
+Processing gene: FBXW7
+  Total SNPs reported: 85966
+  Found 85966 SNPs in chr4:152320543-152536091
+  Limited to 2 SNPs.
+Processing gene: FER
+  Total SNPs reported: 188888
+  Found 188888 SNPs in chr5:108747896-109196840
+  Limited to 2 SNPs.
+Processing gene: FGF10
+  Total SNPs reported: 35979
+  Found 35979 SNPs in chr5:44300246-44389419
+  Limited to 2 SNPs.
+Processing gene: FGF14
+  Total SNPs reported: 275404
+  Found 275404 SNPs in chr13:101710803-102402442
+  Limited to 2 SNPs.
+Processing gene: FGF19
+  Total SNPs reported: 2967
+  Found 2967 SNPs in chr11:69698237-69704021
+  Limited to 2 SNPs.
+Processing gene: FGF23
+  Total SNPs reported: 4761
+  Found 4761 SNPs in chr12:4368226-4379711
+  Limited to 2 SNPs.
+Processing gene: FGF3
+  Total SNPs reported: 5303
+  Found 5303 SNPs in chr11:69809967-69819415
+  Limited to 2 SNPs.
+Processing gene: FGF4
+  Total SNPs reported: 2316
+  Found 2316 SNPs in chr11:69771021-69775340
+  Limited to 2 SNPs.
+Processing gene: FGF6
+  Total SNPs reported: 4870
+  Found 4870 SNPs in chr12:4434141-4445814
+  Limited to 2 SNPs.
+Processing gene: FGFR1
+  Total SNPs reported: 30682
+  Found 30682 SNPs in chr8:38411142-38468634
+  Limited to 2 SNPs.
+Processing gene: FGFR2
+  Total SNPs reported: 53494
+  Found 53494 SNPs in chr10:121478329-121598457
+  Limited to 2 SNPs.
+Processing gene: FGFR3
+  Total SNPs reported: 11155
+  Found 11155 SNPs in chr4:1793292-1808866
+  Limited to 2 SNPs.
+Processing gene: FGFR4
+  Total SNPs reported: 7213
+  Found 7213 SNPs in chr5:177086914-177098143
+  Limited to 2 SNPs.
+Processing gene: FGR
+  Total SNPs reported: 9987
+  Found 9987 SNPs in chr1:27612063-27635184
+  Limited to 2 SNPs.
+Processing gene: FH
+  Total SNPs reported: 43973
+  Found 43973 SNPs in chr1:196652042-196747503
+  Limited to 2 SNPs.
+Processing gene: FLCN
+  Total SNPs reported: 13167
+  Found 13167 SNPs in chr17:17212211-17237329
+  Limited to 2 SNPs.
+Processing gene: FLT1
+  Total SNPs reported: 77396
+  Found 77396 SNPs in chr13:28300345-28495127
+  Limited to 2 SNPs.
+Processing gene: FLT3
+  Total SNPs reported: 40611
+  Found 40611 SNPs in chr13:28003273-28100575
+  Limited to 2 SNPs.
+Processing gene: FLT4
+  Total SNPs reported: 27972
+  Found 27972 SNPs in chr5:180601505-180650297
+  Limited to 2 SNPs.
+Processing gene: FOS
+  Total SNPs reported: 1911
+  Found 1911 SNPs in chr14:75278827-75282229
+  Limited to 2 SNPs.
+Processing gene: FOSB
+  Total SNPs reported: 3687
+  Found 3687 SNPs in chr19:45467995-45475178
+  Limited to 2 SNPs.
+Processing gene: FOXA1
+  Total SNPs reported: 3512
+  Found 3512 SNPs in chr14:37589551-37595248
+  Limited to 2 SNPs.
+Processing gene: FOXL2
+  Total SNPs reported: 2205
+  Found 2205 SNPs in chr3:138944223-138947136
+  Limited to 2 SNPs.
+Processing gene: FOXO1
+  Total SNPs reported: 44396
+  Found 44396 SNPs in chr13:40555666-40666640
+  Limited to 2 SNPs.
+Processing gene: FOXP1
+  Total SNPs reported: 260284
+  Found 260284 SNPs in chr3:70954707-71583977
+  Limited to 2 SNPs.
+Processing gene: FOXR2
+  Total SNPs reported: 1032
+  Found 1032 SNPs in chrX:55623399-55626191
+  Limited to 2 SNPs.
+Processing gene: FRK
+  Total SNPs reported: 63920
+  Found 63920 SNPs in chr6:115931148-116100724
+  Limited to 2 SNPs.
+Processing gene: FRS2
+  Total SNPs reported: 43743
+  Found 43743 SNPs in chr12:69470387-69579792
+  Limited to 2 SNPs.
+Processing gene: FUBP1
+  Total SNPs reported: 17162
+  Found 17162 SNPs in chr1:77944054-77979500
+  Limited to 2 SNPs.
+Processing gene: FUS
+  Total SNPs reported: 9843
+  Found 9843 SNPs in chr16:31180109-31194870
+  Limited to 2 SNPs.
+Processing gene: GABRA6
+  Total SNPs reported: 7798
+  Found 7798 SNPs in chr5:161685720-161702591
+  Limited to 2 SNPs.
+Processing gene: GATA1
+  Total SNPs reported: 2990
+  Found 2990 SNPs in chrX:48786589-48794310
+  Limited to 2 SNPs.
+Processing gene: GATA2
+  Total SNPs reported: 7271
+  Found 7271 SNPs in chr3:128479421-128493200
+  Limited to 2 SNPs.
+Processing gene: GATA3
+  Total SNPs reported: 15197
+  Found 15197 SNPs in chr10:8045332-8075197
+  Limited to 2 SNPs.
+Processing gene: GATA4
+  Total SNPs reported: 42479
+  Found 42479 SNPs in chr8:11676934-11760001
+  Limited to 2 SNPs.
+Processing gene: GATA6
+  Total SNPs reported: 14082
+  Found 14082 SNPs in chr18:22169588-22202527
+  Limited to 2 SNPs.
+Processing gene: GEN1
+  Total SNPs reported: 16669
+  Found 16669 SNPs in chr2:17753277-17788945
+  Limited to 2 SNPs.
+Processing gene: GID4
+  Total SNPs reported: 11861
+  Found 11861 SNPs in chr17:18039407-18068404
+  Limited to 2 SNPs.
+Processing gene: GLI1
+  Total SNPs reported: 6636
+  Found 6636 SNPs in chr12:57459784-57472267
+  Limited to 2 SNPs.
+Processing gene: GLI2
+  Total SNPs reported: 101690
+  Found 101690 SNPs in chr2:120735867-120992652
+  Limited to 2 SNPs.
+Processing gene: GLIS2
+  Total SNPs reported: 12542
+  Found 12542 SNPs in chr16:4314760-4339594
+  Limited to 2 SNPs.
+Processing gene: GNA11
+  Total SNPs reported: 15023
+  Found 15023 SNPs in chr19:3094361-3123998
+  Limited to 2 SNPs.
+Processing gene: GNA13
+  Total SNPs reported: 19514
+  Found 19514 SNPs in chr17:65009288-65056739
+  Limited to 2 SNPs.
+Processing gene: GNA14
+  Total SNPs reported: 95163
+  Found 95163 SNPs in chr9:77423078-77648321
+  Limited to 2 SNPs.
+Processing gene: GNAQ
+  Total SNPs reported: 127193
+  Found 127193 SNPs in chr9:77716096-78031810
+  Limited to 2 SNPs.
+Processing gene: GNAS
+  Total SNPs reported: 33656
+  Found 33656 SNPs in chr20:58839747-58911191
+  Limited to 2 SNPs.
+Processing gene: GNB1
+  Total SNPs reported: 49158
+  Found 49158 SNPs in chr1:1785285-1891086
+  Limited to 2 SNPs.
+Processing gene: GPC3
+  Total SNPs reported: 115489
+  Found 115489 SNPs in chrX:133535744-133985593
+  Limited to 2 SNPs.
+Processing gene: GREM1
+  Total SNPs reported: 11004
+  Found 11004 SNPs in chr15:32718003-32745105
+  Limited to 2 SNPs.
+Processing gene: GRIN2A
+  Total SNPs reported: 195082
+  Found 195082 SNPs in chr16:9753403-10182907
+  Limited to 2 SNPs.
+Processing gene: GRM3
+  Total SNPs reported: 85973
+  Found 85973 SNPs in chr7:86643908-86864878
+  Limited to 2 SNPs.
+Processing gene: GSK3B
+  Total SNPs reported: 107755
+  Found 107755 SNPs in chr3:119821320-120094446
+  Limited to 2 SNPs.
+Processing gene: H1-4
+  Total SNPs reported: 926
+  Found 926 SNPs in chr6:26156328-26157114
+  Limited to 2 SNPs.
+Processing gene: H3-3A
+  Total SNPs reported: 5374
+  Found 5374 SNPs in chr1:226061830-226072018
+  Limited to 2 SNPs.
+Processing gene: H3-3B
+  Total SNPs reported: 5374
+  Found 5374 SNPs in chr1:226061830-226072018
+  Limited to 2 SNPs.
+Processing gene: H3C2
+  Total SNPs reported: 544
+  Found 544 SNPs in chr6:26020450-26020957
+  Limited to 2 SNPs.
+Processing gene: H3C3
+  Total SNPs reported: 544
+  Found 544 SNPs in chr6:26020450-26020957
+  Limited to 2 SNPs.
+Processing gene: HDAC4
+  Total SNPs reported: 156402
+  Found 156402 SNPs in chr2:239048167-239401648
+  Limited to 2 SNPs.
+Processing gene: HDAC9
+  Total SNPs reported: 393070
+  Found 393070 SNPs in chr7:18086824-19002415
+  Limited to 2 SNPs.
+Processing gene: HGF
+  Total SNPs reported: 2442
+  Found 2442 SNPs in chr7:22727199-22731997
+  Limited to 2 SNPs.
+Processing gene: HIF1A
+  Total SNPs reported: 21904
+  Found 21904 SNPs in chr14:61695512-61748257
+  Limited to 2 SNPs.
+Processing gene: HLF
+  Total SNPs reported: 40130
+  Found 40130 SNPs in chr2:46297406-46386696
+  Limited to 2 SNPs.
+Processing gene: HMGA2
+  Total SNPs reported: 54095
+  Found 54095 SNPs in chr12:65824459-65966290
+  Limited to 2 SNPs.
+Processing gene: HNF1A
+  Total SNPs reported: 12162
+  Found 12162 SNPs in chr12:120978542-121002511
+  Limited to 2 SNPs.
+Processing gene: HOXB13
+  Total SNPs reported: 2700
+  Found 2700 SNPs in chr17:48724762-48728749
+  Limited to 2 SNPs.
+Processing gene: HRAS
+  Total SNPs reported: 2846
+  Found 2846 SNPs in chr11:532241-535575
+  Limited to 2 SNPs.
+Processing gene: HSD3B1
+  Total SNPs reported: 4094
+  Found 4094 SNPs in chr1:119507202-119515057
+  Limited to 2 SNPs.
+Processing gene: HSP90AA1
+  Total SNPs reported: 27648
+  Found 27648 SNPs in chr14:102080741-102139748
+  Limited to 2 SNPs.
+Processing gene: HTRA1
+  Total SNPs reported: 21536
+  Found 21536 SNPs in chr10:122461552-122514906
+  Limited to 2 SNPs.
+Processing gene: ID3
+  Total SNPs reported: 1144
+  Found 1144 SNPs in chr1:23557925-23559500
+  Limited to 2 SNPs.
+Processing gene: IDH1
+  Total SNPs reported: 8476
+  Found 8476 SNPs in chr2:208236226-208255070
+  Limited to 2 SNPs.
+Processing gene: IDH2
+  Total SNPs reported: 9638
+  Found 9638 SNPs in chr15:90083044-90102467
+  Limited to 2 SNPs.
+Processing gene: IGF1R
+  Total SNPs reported: 142689
+  Found 142689 SNPs in chr15:98648538-98964529
+  Limited to 2 SNPs.
+Processing gene: IGF2
+  Total SNPs reported: 11227
+  Found 11227 SNPs in chr11:2129116-2149565
+  Limited to 2 SNPs.
+Processing gene: IKBKE
+  Total SNPs reported: 13200
+  Found 13200 SNPs in chr1:206470475-206496888
+  Limited to 2 SNPs.
+Processing gene: IKZF1
+  Total SNPs reported: 40376
+  Found 40376 SNPs in chr7:50303454-50405100
+  Limited to 2 SNPs.
+Processing gene: IKZF2
+  Total SNPs reported: 57575
+  Found 57575 SNPs in chr2:212999697-213152455
+  Limited to 2 SNPs.
+Processing gene: IKZF3
+  Total SNPs reported: 39648
+  Found 39648 SNPs in chr17:39757714-39864311
+  Limited to 2 SNPs.
+Processing gene: IL2RG
+  Total SNPs reported: 1792
+  Found 1792 SNPs in chrX:71107403-71111576
+  Limited to 2 SNPs.
+Processing gene: IL6ST
+  Total SNPs reported: 25443
+  Found 25443 SNPs in chr5:55935094-55994962
+  Limited to 2 SNPs.
+Processing gene: IL7R
+  Total SNPs reported: 10391
+  Found 10391 SNPs in chr5:35856890-35879602
+  Limited to 2 SNPs.
+Processing gene: INHBA
+  Total SNPs reported: 8262
+  Found 8262 SNPs in chr7:41685113-41705405
+  Limited to 2 SNPs.
+Processing gene: INPP4B
+  Total SNPs reported: 331016
+  Found 331016 SNPs in chr4:142023159-142846534
+  Limited to 2 SNPs.
+Processing gene: IRF2
+  Total SNPs reported: 34297
+  Found 34297 SNPs in chr4:184387728-184474549
+  Limited to 2 SNPs.
+Processing gene: IRF4
+  Total SNPs reported: 9491
+  Found 9491 SNPs in chr6:391751-411442
+  Limited to 2 SNPs.
+Processing gene: IRF8
+  Total SNPs reported: 11774
+  Found 11774 SNPs in chr16:85899161-85922608
+  Limited to 2 SNPs.
+Processing gene: IRS2
+  Total SNPs reported: 15630
+  Found 15630 SNPs in chr13:109752694-109786582
+  Limited to 2 SNPs.
+Processing gene: ITK
+  Total SNPs reported: 30849
+  Found 30849 SNPs in chr5:157180839-157255184
+  Limited to 2 SNPs.
+Processing gene: ITPKB
+  Total SNPs reported: 44538
+  Found 44538 SNPs in chr1:226631689-226739281
+  Limited to 2 SNPs.
+Processing gene: JAK1
+  Total SNPs reported: 92923
+  Found 92923 SNPs in chr1:64833228-65067745
+  Limited to 2 SNPs.
+Processing gene: JAK2
+  Total SNPs reported: 71706
+  Found 71706 SNPs in chr9:4984389-5129947
+  Limited to 2 SNPs.
+Processing gene: JAK3
+  Total SNPs reported: 13201
+  Found 13201 SNPs in chr19:17824781-17847981
+  Limited to 2 SNPs.
+Processing gene: JAZF1
+  Total SNPs reported: 135853
+  Found 135853 SNPs in chr7:27830576-28180794
+  Limited to 2 SNPs.
+Processing gene: JUN
+  Total SNPs reported: 2108
+  Found 2108 SNPs in chr1:58780790-58784046
+  Limited to 2 SNPs.
+Processing gene: KAT6A
+  Total SNPs reported: 51250
+  Found 51250 SNPs in chr8:41929478-42051986
+  Limited to 2 SNPs.
+Processing gene: KBTBD4
+  Total SNPs reported: 3665
+  Found 3665 SNPs in chr11:47572196-47578969
+  Limited to 2 SNPs.
+Processing gene: KCNJ5
+  Total SNPs reported: 13080
+  Found 13080 SNPs in chr11:128891355-128921162
+  Limited to 2 SNPs.
+Processing gene: KDM4C
+  Total SNPs reported: 230601
+  Found 230601 SNPs in chr9:6720862-7175647
+  Limited to 2 SNPs.
+Processing gene: KDM5A
+  Total SNPs reported: 50021
+  Found 50021 SNPs in chr12:280056-389319
+  Limited to 2 SNPs.
+Processing gene: KDM5C
+  Total SNPs reported: 17337
+  Found 17337 SNPs in chrX:53176276-53225206
+  Limited to 2 SNPs.
+Processing gene: KDM6A
+  Total SNPs reported: 76579
+  Found 76579 SNPs in chrX:44873187-45112778
+  Limited to 2 SNPs.
+Processing gene: KDR
+  Total SNPs reported: 22251
+  Found 22251 SNPs in chr4:55078480-55125594
+  Limited to 2 SNPs.
+Processing gene: KEAP1
+  Total SNPs reported: 9265
+  Found 9265 SNPs in chr19:10486124-10503355
+  Limited to 2 SNPs.
+Processing gene: KEL
+  Total SNPs reported: 9868
+  Found 9868 SNPs in chr7:142941113-142962362
+  Limited to 2 SNPs.
+Processing gene: KIF1B
+  Total SNPs reported: 73103
+  Found 73103 SNPs in chr1:10210569-10381602
+  Limited to 2 SNPs.
+Processing gene: KIF5B
+  Total SNPs reported: 20494
+  Found 20494 SNPs in chr10:32009014-32056424
+  Limited to 2 SNPs.
+Processing gene: KIT
+  Total SNPs reported: 35280
+  Found 35280 SNPs in chr4:54657956-54740714
+  Limited to 2 SNPs.
+Processing gene: KLF2
+  Total SNPs reported: 2545
+  Found 2545 SNPs in chr19:16324825-16328684
+  Limited to 2 SNPs.
+Processing gene: KLF4
+  Total SNPs reported: 3341
+  Found 3341 SNPs in chr9:107484851-107489768
+  Limited to 2 SNPs.
+Processing gene: KLHL6
+  Total SNPs reported: 29386
+  Found 29386 SNPs in chr7:23105784-23177913
+  Limited to 2 SNPs.
+Processing gene: KMT2A
+  Total SNPs reported: 38614
+  Found 38614 SNPs in chr11:118436491-118526831
+  Limited to 2 SNPs.
+Processing gene: KMT2B
+  Total SNPs reported: 12985
+  Found 12985 SNPs in chr19:35718002-35738877
+  Limited to 2 SNPs.
+Processing gene: KMT2C
+  Total SNPs reported: 142468
+  Found 142468 SNPs in chr7:152134924-152436002
+  Limited to 2 SNPs.
+Processing gene: KMT2D
+  Total SNPs reported: 30485
+  Found 30485 SNPs in chr12:49018977-49060793
+  Limited to 2 SNPs.
+Processing gene: KRAS
+  Total SNPs reported: 20476
+  Found 20476 SNPs in chr12:25205245-25250928
+  Limited to 2 SNPs.
+Processing gene: LEF1
+  Total SNPs reported: 46093
+  Found 46093 SNPs in chr4:108047547-108168931
+  Limited to 2 SNPs.
+Processing gene: LIFR
+  Total SNPs reported: 53808
+  Found 53808 SNPs in chr5:38474667-38608402
+  Limited to 2 SNPs.
+Processing gene: LMO1
+  Total SNPs reported: 18408
+  Found 18408 SNPs in chr11:8224308-8268786
+  Limited to 2 SNPs.
+Processing gene: LRP1B
+  Total SNPs reported: 807674
+  Found 807674 SNPs in chr2:140231422-142131015
+  Limited to 2 SNPs.
+Processing gene: LYN
+  Total SNPs reported: 52319
+  Found 52319 SNPs in chr8:55879834-56014168
+  Limited to 2 SNPs.
+Processing gene: LYST
+  Total SNPs reported: 86965
+  Found 86965 SNPs in chr1:235661030-235883712
+  Limited to 2 SNPs.
+Processing gene: LZTR1
+  Total SNPs reported: 10612
+  Found 10612 SNPs in chr22:20982296-20999031
+  Limited to 2 SNPs.
+Processing gene: MAGI2
+  Total SNPs reported: 582860
+  Found 582860 SNPs in chr7:78017054-79453666
+  Limited to 2 SNPs.
+Processing gene: MALT1
+  Total SNPs reported: 33769
+  Found 33769 SNPs in chr18:58671464-58754476
+  Limited to 2 SNPs.
+Processing gene: MAML2
+  Total SNPs reported: 43948
+  Found 43948 SNPs in chr19:18683679-18782332
+  Limited to 2 SNPs.
+Processing gene: MAP2K1
+  Total SNPs reported: 45907
+  Found 45907 SNPs in chr15:66386911-66491543
+  Limited to 2 SNPs.
+Processing gene: MAP2K2
+  Total SNPs reported: 17502
+  Found 17502 SNPs in chr19:4090320-4124121
+  Limited to 2 SNPs.
+Processing gene: MAP2K4
+  Total SNPs reported: 49336
+  Found 49336 SNPs in chr17:12020876-12143827
+  Limited to 2 SNPs.
+Processing gene: MAP3K1
+  Total SNPs reported: 35863
+  Found 35863 SNPs in chr5:56815548-56896151
+  Limited to 2 SNPs.
+Processing gene: MAP3K14
+  Total SNPs reported: 21439
+  Found 21439 SNPs in chr17:45263118-45317019
+  Limited to 2 SNPs.
+Processing gene: MAP3K3
+  Total SNPs reported: 28928
+  Found 28928 SNPs in chr17:63622416-63696304
+  Limited to 2 SNPs.
+Processing gene: MAP3K7
+  Total SNPs reported: 29233
+  Found 29233 SNPs in chr6:90513578-90587071
+  Limited to 2 SNPs.
+Processing gene: MAPK1
+  Total SNPs reported: 48071
+  Found 48071 SNPs in chr22:21759656-21867679
+  Limited to 2 SNPs.
+Processing gene: MAPK3
+  Total SNPs reported: 4467
+  Found 4467 SNPs in chr16:30114104-30123219
+  Limited to 2 SNPs.
+Processing gene: MAST1
+  Total SNPs reported: 125537
+  Found 125537 SNPs in chr2:121337775-121649461
+  Limited to 2 SNPs.
+Processing gene: MAST2
+  Total SNPs reported: 96303
+  Found 96303 SNPs in chr1:45803611-46036121
+  Limited to 2 SNPs.
+Processing gene: MAX
+  Total SNPs reported: 39366
+  Found 39366 SNPs in chr14:65006100-65102694
+  Limited to 2 SNPs.
+Processing gene: MCL1
+  Total SNPs reported: 3273
+  Found 3273 SNPs in chr1:150574557-150579609
+  Limited to 2 SNPs.
+Processing gene: MDM2
+  Total SNPs reported: 19878
+  Found 19878 SNPs in chr12:68808171-68850685
+  Limited to 2 SNPs.
+Processing gene: MDM4
+  Total SNPs reported: 19500
+  Found 19500 SNPs in chr1:204516405-204558119
+  Limited to 2 SNPs.
+Processing gene: MEAF6
+  Total SNPs reported: 11153
+  Found 11153 SNPs in chr1:37489992-37514765
+  Limited to 2 SNPs.
+Processing gene: MECOM
+  Total SNPs reported: 224535
+  Found 224535 SNPs in chr3:169083506-169663711
+  Limited to 2 SNPs.
+Processing gene: MED12
+  Total SNPs reported: 11137
+  Found 11137 SNPs in chrX:71118595-71142449
+  Limited to 2 SNPs.
+Processing gene: MEF2B
+  Total SNPs reported: 11175
+  Found 11175 SNPs in chr19:19145566-19170262
+  Limited to 2 SNPs.
+Processing gene: MEF2D
+  Total SNPs reported: 16168
+  Found 16168 SNPs in chr1:156463726-156500774
+  Limited to 2 SNPs.
+Processing gene: MEN1
+  Total SNPs reported: 5389
+  Found 5389 SNPs in chr11:64803515-64811293
+  Limited to 2 SNPs.
+Processing gene: MET
+  Total SNPs reported: 54703
+  Found 54703 SNPs in chr7:116672195-116798376
+  Limited to 2 SNPs.
+Processing gene: MITF
+  Total SNPs reported: 89626
+  Found 89626 SNPs in chr3:69739463-69968331
+  Limited to 2 SNPs.
+Processing gene: MKL1
+  Total SNPs reported: 96200
+  Found 96200 SNPs in chr22:40410288-40636718
+  Limited to 2 SNPs.
+Processing gene: MKL2
+  Total SNPs reported: 110007
+  Found 110007 SNPs in chr16:13994773-14266778
+  Limited to 2 SNPs.
+Processing gene: MLH1
+  Total SNPs reported: 27210
+  Found 27210 SNPs in chr3:36993465-37050845
+  Limited to 2 SNPs.
+Processing gene: MLH3
+  Total SNPs reported: 16404
+  Found 16404 SNPs in chr14:75013774-75051466
+  Limited to 2 SNPs.
+Processing gene: MLLT1
+  Total SNPs reported: 30988
+  Found 30988 SNPs in chr19:6210380-6279974
+  Limited to 2 SNPs.
+Processing gene: MLLT10
+  Total SNPs reported: 92615
+  Found 92615 SNPs in chr10:21533755-21743629
+  Limited to 2 SNPs.
+Processing gene: MLLT4
+  Total SNPs reported: 62237
+  Found 62237 SNPs in chr6:167826563-167972022
+  Limited to 2 SNPs.
+Processing gene: MN1
+  Total SNPs reported: 22579
+  Found 22579 SNPs in chr22:27748276-27801755
+  Limited to 2 SNPs.
+Processing gene: MPL
+  Total SNPs reported: 7736
+  Found 7736 SNPs in chr1:43337817-43354465
+  Limited to 2 SNPs.
+Processing gene: MRE11
+  Total SNPs reported: 38712
+  Found 38712 SNPs in chr11:94415569-94512411
+  Limited to 2 SNPs.
+Processing gene: MSH2
+  Total SNPs reported: 149722
+  Found 149722 SNPs in chr2:47403066-47709829
+  Limited to 2 SNPs.
+Processing gene: MSH3
+  Total SNPs reported: 92127
+  Found 92127 SNPs in chr5:80654651-80876814
+  Limited to 2 SNPs.
+Processing gene: MSH6
+  Total SNPs reported: 21470
+  Found 21470 SNPs in chr2:47783144-47810100
+  Limited to 2 SNPs.
+Processing gene: MSMB
+  Total SNPs reported: 5472
+  Found 5472 SNPs in chr10:46033312-46046268
+  Limited to 2 SNPs.
+Processing gene: MTOR
+  Total SNPs reported: 69287
+  Found 69287 SNPs in chr1:11106534-11262550
+  Limited to 2 SNPs.
+Processing gene: MUTYH
+  Total SNPs reported: 6734
+  Found 6734 SNPs in chr1:45329241-45340439
+  Limited to 2 SNPs.
+Processing gene: MYB
+  Total SNPs reported: 15817
+  Found 15817 SNPs in chr6:135181307-135219171
+  Limited to 2 SNPs.
+Processing gene: MYBL1
+  Total SNPs reported: 19796
+  Found 19796 SNPs in chr8:66562174-66613217
+  Limited to 2 SNPs.
+Processing gene: MYC
+  Total SNPs reported: 4856
+  Found 4856 SNPs in chr8:127735433-127742950
+  Limited to 2 SNPs.
+Processing gene: MYCL
+  Total SNPs reported: 3588
+  Found 3588 SNPs in chr1:39895427-39901916
+  Limited to 2 SNPs.
+Processing gene: MYCN
+  Total SNPs reported: 3938
+  Found 3938 SNPs in chr2:15940549-15947003
+  Limited to 2 SNPs.
+Processing gene: MYD88
+  Total SNPs reported: 2712
+  Found 2712 SNPs in chr3:38138660-38143021
+  Limited to 2 SNPs.
+Processing gene: MYH11
+  Total SNPs reported: 70245
+  Found 70245 SNPs in chr16:15703134-15857027
+  Limited to 2 SNPs.
+Processing gene: MYH9
+  Total SNPs reported: 48256
+  Found 48256 SNPs in chr22:36281279-36387966
+  Limited to 2 SNPs.
+Processing gene: MYOD1
+  Total SNPs reported: 1755
+  Found 1755 SNPs in chr11:17719570-17722135
+  Limited to 2 SNPs.
+Processing gene: NBN
+  Total SNPs reported: 22830
+  Found 22830 SNPs in chr8:89933330-89984666
+  Limited to 2 SNPs.
+Processing gene: NCOA1
+  Total SNPs reported: 108801
+  Found 108801 SNPs in chr2:24491253-24770701
+  Limited to 2 SNPs.
+Processing gene: NCOA2
+  Total SNPs reported: 136088
+  Found 136088 SNPs in chr8:70109781-70456445
+  Limited to 2 SNPs.
+Processing gene: NCOA3
+  Total SNPs reported: 65336
+  Found 65336 SNPs in chr20:47501886-47656871
+  Limited to 2 SNPs.
+Processing gene: NCOR1
+  Total SNPs reported: 83739
+  Found 83739 SNPs in chr17:16029156-16215533
+  Limited to 2 SNPs.
+Processing gene: NCOR2
+  Total SNPs reported: 117054
+  Found 117054 SNPs in chr12:124324414-124567611
+  Limited to 2 SNPs.
+Processing gene: NF1
+  Total SNPs reported: 121551
+  Found 121551 SNPs in chr17:31094926-31377676
+  Limited to 2 SNPs.
+Processing gene: NF2
+  Total SNPs reported: 38613
+  Found 38613 SNPs in chr22:29603555-29698599
+  Limited to 2 SNPs.
+Processing gene: NFE2
+  Total SNPs reported: 3861
+  Found 3861 SNPs in chr12:54292110-54301014
+  Limited to 2 SNPs.
+Processing gene: NFE2L2
+  Total SNPs reported: 14591
+  Found 14591 SNPs in chr2:177230302-177264726
+  Limited to 2 SNPs.
+Processing gene: NFKB2
+  Total SNPs reported: 5216
+  Found 5216 SNPs in chr10:102394109-102402528
+  Limited to 2 SNPs.
+Processing gene: NFKBIA
+  Total SNPs reported: 2638
+  Found 2638 SNPs in chr14:35401512-35404748
+  Limited to 2 SNPs.
+Processing gene: NFKBIE
+  Total SNPs reported: 3661
+  Found 3661 SNPs in chr6:44258165-44265550
+  Limited to 2 SNPs.
+Processing gene: NKX2-1
+  Total SNPs reported: 2750
+  Found 2750 SNPs in chr14:36516396-36520231
+  Limited to 2 SNPs.
+Processing gene: NOTCH1
+  Total SNPs reported: 32243
+  Found 32243 SNPs in chr9:136494432-136546047
+  Limited to 2 SNPs.
+Processing gene: NOTCH2
+  Total SNPs reported: 68797
+  Found 68797 SNPs in chr1:119911552-120069661
+  Limited to 2 SNPs.
+Processing gene: NOTCH3
+  Total SNPs reported: 23789
+  Found 23789 SNPs in chr19:15159037-15200994
+  Limited to 2 SNPs.
+Processing gene: NPM1
+  Total SNPs reported: 13347
+  Found 13347 SNPs in chr5:171387115-171410899
+  Limited to 2 SNPs.
+Processing gene: NR4A3
+  Total SNPs reported: 16593
+  Found 16593 SNPs in chr9:99821884-99866890
+  Limited to 2 SNPs.
+Processing gene: NRAS
+  Total SNPs reported: 5411
+  Found 5411 SNPs in chr1:114704468-114716770
+  Limited to 2 SNPs.
+Processing gene: NRG1
+  Total SNPs reported: 447531
+  Found 447531 SNPs in chr8:31639244-32774045
+  Limited to 2 SNPs.
+Processing gene: NSD1
+  Total SNPs reported: 75516
+  Found 75516 SNPs in chr5:177131797-177300212
+  Limited to 2 SNPs.
+Processing gene: NSD2
+  Total SNPs reported: 53298
+  Found 53298 SNPs in chr4:1871392-1982191
+  Limited to 2 SNPs.
+Processing gene: NT5C2
+  Total SNPs reported: 44419
+  Found 44419 SNPs in chr10:103088016-103193271
+  Limited to 2 SNPs.
+Processing gene: NTHL1
+  Total SNPs reported: 4886
+  Found 4886 SNPs in chr16:2039819-2047833
+  Limited to 2 SNPs.
+Processing gene: NTRK1
+  Total SNPs reported: 32594
+  Found 32594 SNPs in chr1:156815749-156881849
+  Limited to 2 SNPs.
+Processing gene: NTRK2
+  Total SNPs reported: 138552
+  Found 138552 SNPs in chr9:84668521-85027053
+  Limited to 2 SNPs.
+Processing gene: NTRK3
+  Total SNPs reported: 170916
+  Found 170916 SNPs in chr15:87859750-88256738
+  Limited to 2 SNPs.
+Processing gene: NUMBL
+  Total SNPs reported: 10947
+  Found 10947 SNPs in chr19:40665904-40690650
+  Limited to 2 SNPs.
+Processing gene: NUP214
+  Total SNPs reported: 47815
+  Found 47815 SNPs in chr9:131125585-131234662
+  Limited to 2 SNPs.
+Processing gene: NUP93
+  Total SNPs reported: 49175
+  Found 49175 SNPs in chr16:56730128-56850285
+  Limited to 2 SNPs.
+Processing gene: NUP98
+  Total SNPs reported: 58698
+  Found 58698 SNPs in chr11:3675009-3797553
+  Limited to 2 SNPs.
+Processing gene: NUTM1
+  Total SNPs reported: 7188
+  Found 7188 SNPs in chr15:34343314-34357734
+  Limited to 2 SNPs.
+Processing gene: OTX2
+  Total SNPs reported: 4690
+  Found 4690 SNPs in chr14:56799904-56810478
+  Limited to 2 SNPs.
+Processing gene: PAG1
+  Total SNPs reported: 53200
+  Found 53200 SNPs in chr8:80967809-81112067
+  Limited to 2 SNPs.
+Processing gene: PAK3
+  Total SNPs reported: 80365
+  Found 80365 SNPs in chr13:111114618-111305733
+  Limited to 2 SNPs.
+Processing gene: PALB2
+  Total SNPs reported: 19817
+  Found 19817 SNPs in chr16:23603164-23641309
+  Limited to 2 SNPs.
+Processing gene: PAX3
+  Total SNPs reported: 40216
+  Found 40216 SNPs in chr2:222199886-222298997
+  Limited to 2 SNPs.
+Processing gene: PAX5
+  Total SNPs reported: 81018
+  Found 81018 SNPs in chr9:36833268-37034267
+  Limited to 2 SNPs.
+Processing gene: PAX7
+  Total SNPs reported: 50248
+  Found 50248 SNPs in chr1:18630845-18748865
+  Limited to 2 SNPs.
+Processing gene: PAX8
+  Total SNPs reported: 25632
+  Found 25632 SNPs in chr2:113215996-113278920
+  Limited to 2 SNPs.
+Processing gene: PBRM1
+  Total SNPs reported: 61532
+  Found 61532 SNPs in chr3:52545366-52685912
+  Limited to 2 SNPs.
+Processing gene: PDCD1
+  Total SNPs reported: 4534
+  Found 4534 SNPs in chr2:241849883-241858893
+  Limited to 2 SNPs.
+Processing gene: PDCD1LG2
+  Total SNPs reported: 26543
+  Found 26543 SNPs in chr9:5510530-5571281
+  Limited to 2 SNPs.
+Processing gene: PDGFB
+  Total SNPs reported: 9903
+  Found 9903 SNPs in chr22:39223358-39244981
+  Limited to 2 SNPs.
+Processing gene: PDGFRA
+  Total SNPs reported: 31921
+  Found 31921 SNPs in chr4:54229292-54298244
+  Limited to 2 SNPs.
+Processing gene: PDGFRB
+  Total SNPs reported: 19087
+  Found 19087 SNPs in chr5:150113838-150155844
+  Limited to 2 SNPs.
+Processing gene: PDK1
+  Total SNPs reported: 22523
+  Found 22523 SNPs in chr16:2538020-2603187
+  Limited to 2 SNPs.
+Processing gene: PHF1
+  Total SNPs reported: 3670
+  Found 3670 SNPs in chr6:33410411-33416438
+  Limited to 2 SNPs.
+Processing gene: PHF6
+  Total SNPs reported: 15862
+  Found 15862 SNPs in chrX:134373311-134428789
+  Limited to 2 SNPs.
+Processing gene: PHOX2B
+  Total SNPs reported: 2750
+  Found 2750 SNPs in chr4:41744081-41748724
+  Limited to 2 SNPs.
+Processing gene: PIGA
+  Total SNPs reported: 4899
+  Found 4899 SNPs in chrX:15319450-15335553
+  Limited to 2 SNPs.
+Processing gene: PIK3C2B
+  Total SNPs reported: 30938
+  Found 30938 SNPs in chr1:204422632-204494804
+  Limited to 2 SNPs.
+Processing gene: PIK3CA
+  Total SNPs reported: 38186
+  Found 38186 SNPs in chr3:179148125-179240092
+  Limited to 2 SNPs.
+Processing gene: PIK3CB
+  Total SNPs reported: 75358
+  Found 75358 SNPs in chr3:138652697-138834927
+  Limited to 2 SNPs.
+Processing gene: PIK3CD
+  Total SNPs reported: 43542
+  Found 43542 SNPs in chr1:9627257-9729113
+  Limited to 2 SNPs.
+Processing gene: PIK3CG
+  Total SNPs reported: 18563
+  Found 18563 SNPs in chr7:106865281-106908979
+  Limited to 2 SNPs.
+Processing gene: PIK3R1
+  Total SNPs reported: 35763
+  Found 35763 SNPs in chr5:68215755-68301820
+  Limited to 2 SNPs.
+Processing gene: PIK3R2
+  Total SNPs reported: 9753
+  Found 9753 SNPs in chr19:18153162-18170531
+  Limited to 2 SNPs.
+Processing gene: PIM1
+  Total SNPs reported: 3063
+  Found 3063 SNPs in chr6:37170151-37175427
+  Limited to 2 SNPs.
+Processing gene: PKN1
+  Total SNPs reported: 18996
+  Found 18996 SNPs in chr19:14433305-14471858
+  Limited to 2 SNPs.
+Processing gene: PLAG1
+  Total SNPs reported: 19696
+  Found 19696 SNPs in chr8:56160908-56211272
+  Limited to 2 SNPs.
+Processing gene: PLCG1
+  Total SNPs reported: 18145
+  Found 18145 SNPs in chr20:41137542-41177625
+  Limited to 2 SNPs.
+Processing gene: PLCG2
+  Total SNPs reported: 124042
+  Found 124042 SNPs in chr16:81739040-81962684
+  Limited to 2 SNPs.
+Processing gene: PML
+  Total SNPs reported: 21095
+  Found 21095 SNPs in chr15:73994715-74047826
+  Limited to 2 SNPs.
+Processing gene: PMS1
+  Total SNPs reported: 37629
+  Found 37629 SNPs in chr2:189784449-189877628
+  Limited to 2 SNPs.
+Processing gene: PMS2
+  Total SNPs reported: 20209
+  Found 20209 SNPs in chr7:5970924-6009105
+  Limited to 2 SNPs.
+Processing gene: POLD1
+  Total SNPs reported: 20033
+  Found 20033 SNPs in chr19:50384322-50418017
+  Limited to 2 SNPs.
+Processing gene: POLE
+  Total SNPs reported: 36054
+  Found 36054 SNPs in chr12:132623761-132687341
+  Limited to 2 SNPs.
+Processing gene: POLR2A
+  Total SNPs reported: 17014
+  Found 17014 SNPs in chr17:7484365-7514615
+  Limited to 2 SNPs.
+Processing gene: POT1
+  Total SNPs reported: 44070
+  Found 44070 SNPs in chr7:124822385-124929824
+  Limited to 2 SNPs.
+Processing gene: PPARG
+  Total SNPs reported: 60742
+  Found 60742 SNPs in chr3:12287367-12434343
+  Limited to 2 SNPs.
+Processing gene: PPM1D
+  Total SNPs reported: 27866
+  Found 27866 SNPs in chr17:60600192-60666279
+  Limited to 2 SNPs.
+Processing gene: PPP2R1A
+  Total SNPs reported: 17781
+  Found 17781 SNPs in chr19:52190051-52229517
+  Limited to 2 SNPs.
+Processing gene: PRDM1
+  Total SNPs reported: 44394
+  Found 44394 SNPs in chr6:105992689-106109937
+  Limited to 2 SNPs.
+Processing gene: PRDM16
+  Total SNPs reported: 170383
+  Found 170383 SNPs in chr1:3069202-3438620
+  Limited to 2 SNPs.
+Processing gene: PREX2
+  Total SNPs reported: 111071
+  Found 111071 SNPs in chr8:67952045-68237031
+  Limited to 2 SNPs.
+Processing gene: PRKACA
+  Total SNPs reported: 196384
+  Found 196384 SNPs in chr17:66302612-66810742
+  Limited to 2 SNPs.
+Processing gene: PRKAR1A
+  Total SNPs reported: 59293
+  Found 59293 SNPs in chr17:68413622-68551315
+  Limited to 2 SNPs.
+Processing gene: PRKCA
+  Total SNPs reported: 196384
+  Found 196384 SNPs in chr17:66302612-66810742
+  Limited to 2 SNPs.
+Processing gene: PRKCB
+  Total SNPs reported: 155987
+  Found 155987 SNPs in chr16:23835982-24220610
+  Limited to 2 SNPs.
+Processing gene: PRKCI
+  Total SNPs reported: 35001
+  Found 35001 SNPs in chr3:170222423-170305976
+  Limited to 2 SNPs.
+Processing gene: PRKDC
+  Total SNPs reported: 83931
+  Found 83931 SNPs in chr8:47773110-47960135
+  Limited to 2 SNPs.
+Processing gene: PRKN
+  Total SNPs reported: 575174
+  Found 575174 SNPs in chr6:161347416-162727765
+  Limited to 2 SNPs.
+Processing gene: PRPF40B
+  Total SNPs reported: 10777
+  Found 10777 SNPs in chr12:49622645-49644664
+  Limited to 2 SNPs.
+Processing gene: PRPF8
+  Total SNPs reported: 18885
+  Found 18885 SNPs in chr17:1650628-1684866
+  Limited to 2 SNPs.
+Processing gene: PRSS8
+  Total SNPs reported: 2334
+  Found 2334 SNPs in chr16:31131432-31135726
+  Limited to 2 SNPs.
+Processing gene: PTCH1
+  Total SNPs reported: 37505
+  Found 37505 SNPs in chr9:95442979-95516970
+  Limited to 2 SNPs.
+Processing gene: PTEN
+  Total SNPs reported: 45625
+  Found 45625 SNPs in chr10:87863624-87971929
+  Limited to 2 SNPs.
+Processing gene: PTK2B
+  Total SNPs reported: 61333
+  Found 61333 SNPs in chr8:27310505-27459390
+  Limited to 2 SNPs.
+Processing gene: PTPN11
+  Total SNPs reported: 35329
+  Found 35329 SNPs in chr12:112418946-112509917
+  Limited to 2 SNPs.
+Processing gene: PTPRD
+  Total SNPs reported: 1177298
+  Found 1177298 SNPs in chr9:8314245-10613001
+  Limited to 2 SNPs.
+Processing gene: PTPRT
+  Total SNPs reported: 459023
+  Found 459023 SNPs in chr20:42031889-43189905
+  Limited to 2 SNPs.
+Processing gene: PVT1
+  Total SNPs reported: 121889
+  Found 121889 SNPs in chr8:127794523-128101255
+  Limited to 2 SNPs.
+Processing gene: QKI
+  Total SNPs reported: 71039
+  Found 71039 SNPs in chr6:163414717-163578591
+  Limited to 2 SNPs.
+Processing gene: RAB35
+  Total SNPs reported: 9738
+  Found 9738 SNPs in chr12:120095098-120116752
+  Limited to 2 SNPs.
+Processing gene: RAC1
+  Total SNPs reported: 16742
+  Found 16742 SNPs in chr7:6374526-6403966
+  Limited to 2 SNPs.
+Processing gene: RAD21
+  Total SNPs reported: 13719
+  Found 13719 SNPs in chr8:116845933-116874775
+  Limited to 2 SNPs.
+Processing gene: RAD50
+  Total SNPs reported: 37640
+  Found 37640 SNPs in chr5:132556976-132646348
+  Limited to 2 SNPs.
+Processing gene: RAD51
+  Total SNPs reported: 17421
+  Found 17421 SNPs in chr15:40694732-40732339
+  Limited to 2 SNPs.
+Processing gene: RAD51B
+  Total SNPs reported: 316535
+  Found 316535 SNPs in chr14:67819778-68683095
+  Limited to 2 SNPs.
+Processing gene: RAD51C
+  Total SNPs reported: 19817
+  Found 19817 SNPs in chr17:58692572-58735610
+  Limited to 2 SNPs.
+Processing gene: RAD51D
+  Total SNPs reported: 13019
+  Found 13019 SNPs in chr17:35092220-35119859
+  Limited to 2 SNPs.
+Processing gene: RAF1
+  Total SNPs reported: 38966
+  Found 38966 SNPs in chr3:12583600-12664116
+  Limited to 2 SNPs.
+Processing gene: RANBP2
+  Total SNPs reported: 432133
+  Found 432133 SNPs in chr2:108719481-109842300
+  Limited to 2 SNPs.
+Processing gene: RARA
+  Total SNPs reported: 20721
+  Found 20721 SNPs in chr17:40309179-40357642
+  Limited to 2 SNPs.
+Processing gene: RASA1
+  Total SNPs reported: 51841
+  Found 51841 SNPs in chr5:87267882-87391915
+  Limited to 2 SNPs.
+Processing gene: RB1
+  Total SNPs reported: 69559
+  Found 69559 SNPs in chr13:48303750-48481889
+  Limited to 2 SNPs.
+Processing gene: RBM10
+  Total SNPs reported: 16234
+  Found 16234 SNPs in chrX:47145220-47186812
+  Limited to 2 SNPs.
+Processing gene: RECQL
+  Total SNPs reported: 14172
+  Found 14172 SNPs in chr12:21468909-21501634
+  Limited to 2 SNPs.
+Processing gene: RECQL4
+  Total SNPs reported: 6923
+  Found 6923 SNPs in chr8:144511287-144517832
+  Limited to 2 SNPs.
+Processing gene: REL
+  Total SNPs reported: 21537
+  Found 21537 SNPs in chr2:60881573-60931611
+  Limited to 2 SNPs.
+Processing gene: RELA
+  Total SNPs reported: 5728
+  Found 5728 SNPs in chr11:65653600-65663856
+  Limited to 2 SNPs.
+Processing gene: RET
+  Total SNPs reported: 27145
+  Found 27145 SNPs in chr10:43077068-43130350
+  Limited to 2 SNPs.
+Processing gene: RHOA
+  Total SNPs reported: 26209
+  Found 26209 SNPs in chr3:49359144-49411975
+  Limited to 2 SNPs.
+Processing gene: RICTOR
+  Total SNPs reported: 57972
+  Found 57972 SNPs in chr5:38937919-39074398
+  Limited to 2 SNPs.
+Processing gene: RINT1
+  Total SNPs reported: 15871
+  Found 15871 SNPs in chr7:105532200-105567676
+  Limited to 2 SNPs.
+Processing gene: RIT1
+  Total SNPs reported: 42517
+  Found 42517 SNPs in chr14:99169286-99272196
+  Limited to 2 SNPs.
+Processing gene: RNF43
+  Total SNPs reported: 24959
+  Found 24959 SNPs in chr17:58352499-58417533
+  Limited to 2 SNPs.
+Processing gene: ROS1
+  Total SNPs reported: 65721
+  Found 65721 SNPs in chr6:117287352-117425941
+  Limited to 2 SNPs.
+Processing gene: RPS15
+  Total SNPs reported: 1484
+  Found 1484 SNPs in chr19:1438395-1440494
+  Limited to 2 SNPs.
+Processing gene: RPS20
+  Total SNPs reported: 4336
+  Found 4336 SNPs in chr8:56067253-56074505
+  Limited to 2 SNPs.
+Processing gene: RPS6KA3
+  Total SNPs reported: 33813
+  Found 33813 SNPs in chrX:20149910-20267096
+  Limited to 2 SNPs.
+Processing gene: RPTOR
+  Total SNPs reported: 183365
+  Found 183365 SNPs in chr17:80544837-80966367
+  Limited to 2 SNPs.
+Processing gene: RRAGC
+  Total SNPs reported: 9233
+  Found 9233 SNPs in chr1:38838197-38859771
+  Limited to 2 SNPs.
+Processing gene: RSPO2
+  Total SNPs reported: 75028
+  Found 75028 SNPs in chr8:107899315-108083619
+  Limited to 2 SNPs.
+Processing gene: RSPO3
+  Total SNPs reported: 29659
+  Found 29659 SNPs in chr6:127118670-127199480
+  Limited to 2 SNPs.
+Processing gene: RUNX1
+  Total SNPs reported: 102760
+  Found 102760 SNPs in chr21:34787800-35049301
+  Limited to 2 SNPs.
+Processing gene: RUNX1T1
+  Total SNPs reported: 58685
+  Found 58685 SNPs in chr8:91954966-92103384
+  Limited to 2 SNPs.
+Processing gene: SAMD9
+  Total SNPs reported: 8569
+  Found 8569 SNPs in chr7:93099517-93117978
+  Limited to 2 SNPs.
+Processing gene: SAMD9L
+  Total SNPs reported: 7817
+  Found 7817 SNPs in chr7:93130055-93148384
+  Limited to 2 SNPs.
+Processing gene: SBDS
+  Total SNPs reported: 3905
+  Found 3905 SNPs in chr7:66987679-66995585
+  Limited to 2 SNPs.
+Processing gene: SDHA
+  Total SNPs reported: 26166
+  Found 26166 SNPs in chr5:218319-268745
+  Limited to 2 SNPs.
+Processing gene: SDHB
+  Total SNPs reported: 15155
+  Found 15155 SNPs in chr1:17018721-17054031
+  Limited to 2 SNPs.
+Processing gene: SDHC
+  Total SNPs reported: 20399
+  Found 20399 SNPs in chr1:161314380-161363205
+  Limited to 2 SNPs.
+Processing gene: SDHD
+  Total SNPs reported: 4045
+  Found 4045 SNPs in chr11:112086872-112095793
+  Limited to 2 SNPs.
+Processing gene: SETBP1
+  Total SNPs reported: 150032
+  Found 150032 SNPs in chr18:44680072-45068509
+  Limited to 2 SNPs.
+Processing gene: SETD2
+  Total SNPs reported: 65136
+  Found 65136 SNPs in chr3:47016435-47164839
+  Limited to 2 SNPs.
+Processing gene: SF1
+  Total SNPs reported: 11727
+  Found 11727 SNPs in chr9:124481235-124507398
+  Limited to 2 SNPs.
+Processing gene: SF3A1
+  Total SNPs reported: 11342
+  Found 11342 SNPs in chr22:30331987-30356893
+  Limited to 2 SNPs.
+Processing gene: SF3B1
+  Total SNPs reported: 21542
+  Found 21542 SNPs in chr2:197389783-197435092
+  Limited to 2 SNPs.
+Processing gene: SGK1
+  Total SNPs reported: 60983
+  Found 60983 SNPs in chr6:134169255-134318111
+  Limited to 2 SNPs.
+Processing gene: SH2B3
+  Total SNPs reported: 19732
+  Found 19732 SNPs in chr12:111404729-111451622
+  Limited to 2 SNPs.
+Processing gene: SIX1
+  Total SNPs reported: 3096
+  Found 3096 SNPs in chr14:60643420-60649476
+  Limited to 2 SNPs.
+Processing gene: SIX2
+  Total SNPs reported: 2295
+  Found 2295 SNPs in chr2:45005181-45009451
+  Limited to 2 SNPs.
+Processing gene: SLIT2
+  Total SNPs reported: 153231
+  Found 153231 SNPs in chr4:20251904-20620560
+  Limited to 2 SNPs.
+Processing gene: SLX4
+  Total SNPs reported: 16520
+  Found 16520 SNPs in chr16:3581180-3611605
+  Limited to 2 SNPs.
+Processing gene: SMAD2
+  Total SNPs reported: 55510
+  Found 55510 SNPs in chr18:47808956-47930871
+  Limited to 2 SNPs.
+Processing gene: SMAD3
+  Total SNPs reported: 52844
+  Found 52844 SNPs in chr15:67065601-67195168
+  Limited to 2 SNPs.
+Processing gene: SMAD4
+  Total SNPs reported: 25703
+  Found 25703 SNPs in chr18:51030212-51085041
+  Limited to 2 SNPs.
+Processing gene: SMARCA4
+  Total SNPs reported: 51623
+  Found 51623 SNPs in chr19:10961029-11062272
+  Limited to 2 SNPs.
+Processing gene: SMARCB1
+  Total SNPs reported: 24969
+  Found 24969 SNPs in chr22:23786965-23838008
+  Limited to 2 SNPs.
+Processing gene: SMC1A
+  Total SNPs reported: 15708
+  Found 15708 SNPs in chrX:53374148-53422727
+  Limited to 2 SNPs.
+Processing gene: SMC3
+  Total SNPs reported: 18722
+  Found 18722 SNPs in chr10:110567694-110606047
+  Limited to 2 SNPs.
+Processing gene: SMO
+  Total SNPs reported: 12731
+  Found 12731 SNPs in chr7:129188632-129213544
+  Limited to 2 SNPs.
+Processing gene: SNCAIP
+  Total SNPs reported: 59659
+  Found 59659 SNPs in chr5:122311352-122464218
+  Limited to 2 SNPs.
+Processing gene: SOCS1
+  Total SNPs reported: 1479
+  Found 1479 SNPs in chr16:11254416-11256203
+  Limited to 2 SNPs.
+Processing gene: SOS1
+  Total SNPs reported: 64594
+  Found 64594 SNPs in chr2:38981548-39124867
+  Limited to 2 SNPs.
+Processing gene: SOX10
+  Total SNPs reported: 5192
+  Found 5192 SNPs in chr22:37972311-37984554
+  Limited to 2 SNPs.
+Processing gene: SOX2
+  Total SNPs reported: 1703
+  Found 1703 SNPs in chr3:181711924-181714435
+  Limited to 2 SNPs.
+Processing gene: SOX9
+  Total SNPs reported: 3866
+  Found 3866 SNPs in chr17:72121019-72126415
+  Limited to 2 SNPs.
+Processing gene: SPEN
+  Total SNPs reported: 3711
+  Found 3711 SNPs in chr1:110339376-110346676
+  Limited to 2 SNPs.
+Processing gene: SPOP
+  Total SNPs reported: 30429
+  Found 30429 SNPs in chr17:49598883-49678162
+  Limited to 2 SNPs.
+Processing gene: SPTA1
+  Total SNPs reported: 37074
+  Found 37074 SNPs in chr1:158610703-158686714
+  Limited to 2 SNPs.
+Processing gene: SRC
+  Total SNPs reported: 25545
+  Found 25545 SNPs in chr20:37344698-37406049
+  Limited to 2 SNPs.
+Processing gene: SRSF2
+  Total SNPs reported: 2177
+  Found 2177 SNPs in chr17:76734114-76737410
+  Limited to 2 SNPs.
+Processing gene: SS18
+  Total SNPs reported: 30980
+  Found 30980 SNPs in chr18:26016252-26091218
+  Limited to 2 SNPs.
+Processing gene: SSX1
+  Total SNPs reported: 5204
+  Found 5204 SNPs in chrX:48255391-48267443
+  Limited to 2 SNPs.
+Processing gene: SSX2
+  Total SNPs reported: 469
+  Found 469 SNPs in chrX:52696895-52707226
+  Limited to 2 SNPs.
+Processing gene: SSX4
+  Total SNPs reported: 616
+  Found 616 SNPs in chrX:48383538-48393346
+  Limited to 2 SNPs.
+Processing gene: STAG2
+  Total SNPs reported: 45460
+  Found 45460 SNPs in chrX:123960559-124102655
+  Limited to 2 SNPs.
+Processing gene: STAT3
+  Total SNPs reported: 30965
+  Found 30965 SNPs in chr17:42313323-42388441
+  Limited to 2 SNPs.
+Processing gene: STAT4
+  Total SNPs reported: 46263
+  Found 46263 SNPs in chr2:191029575-191151595
+  Limited to 2 SNPs.
+Processing gene: STAT5B
+  Total SNPs reported: 36780
+  Found 36780 SNPs in chr17:42199176-42288369
+  Limited to 2 SNPs.
+Processing gene: STAT6
+  Total SNPs reported: 8724
+  Found 8724 SNPs in chr12:57095407-57111361
+  Limited to 2 SNPs.
+Processing gene: STK11
+  Total SNPs reported: 14936
+  Found 14936 SNPs in chr19:1205777-1228430
+  Limited to 2 SNPs.
+Processing gene: SUFU
+  Total SNPs reported: 52343
+  Found 52343 SNPs in chr10:102502818-102633534
+  Limited to 2 SNPs.
+Processing gene: SUZ12
+  Total SNPs reported: 28977
+  Found 28977 SNPs in chr17:31937006-32001037
+  Limited to 2 SNPs.
+Processing gene: SYK
+  Total SNPs reported: 40658
+  Found 40658 SNPs in chr9:90801599-90898548
+  Limited to 2 SNPs.
+Processing gene: TAF1
+  Total SNPs reported: 52933
+  Found 52933 SNPs in chrX:71366356-71530524
+  Limited to 2 SNPs.
+Processing gene: TAF15
+  Total SNPs reported: 18478
+  Found 18478 SNPs in chr17:35809483-35847241
+  Limited to 2 SNPs.
+Processing gene: TAL1
+  Total SNPs reported: 6968
+  Found 6968 SNPs in chr1:47216289-47232334
+  Limited to 2 SNPs.
+Processing gene: TBL1XR1
+  Total SNPs reported: 83898
+  Found 83898 SNPs in chr3:177019343-177201799
+  Limited to 2 SNPs.
+Processing gene: TBX3
+  Total SNPs reported: 7425
+  Found 7425 SNPs in chr12:114670254-114684174
+  Limited to 2 SNPs.
+Processing gene: TBXT
+  Total SNPs reported: 5532
+  Found 5532 SNPs in chr6:166157655-166168654
+  Limited to 2 SNPs.
+Processing gene: TCF12
+  Total SNPs reported: 164420
+  Found 164420 SNPs in chr15:56918089-57291309
+  Limited to 2 SNPs.
+Processing gene: TCF3
+  Total SNPs reported: 27000
+  Found 27000 SNPs in chr19:1609291-1652614
+  Limited to 2 SNPs.
+Processing gene: TCF7L2
+  Total SNPs reported: 90587
+  Found 90587 SNPs in chr10:112950246-113167677
+  Limited to 2 SNPs.
+Processing gene: TEK
+  Total SNPs reported: 56039
+  Found 56039 SNPs in chr9:27109224-27230173
+  Limited to 2 SNPs.
+Processing gene: TENT5C
+  Total SNPs reported: 8843
+  Found 8843 SNPs in chr1:117606047-117628388
+  Limited to 2 SNPs.
+Processing gene: TERC
+  Total SNPs reported: 418
+  Found 418 SNPs in chr3:169764609-169765059
+  Limited to 2 SNPs.
+Processing gene: TERT
+  Total SNPs reported: 24170
+  Found 24170 SNPs in chr5:1253166-1295067
+  Limited to 2 SNPs.
+Processing gene: TET1
+  Total SNPs reported: 57094
+  Found 57094 SNPs in chr10:68560336-68694486
+  Limited to 2 SNPs.
+Processing gene: TET2
+  Total SNPs reported: 56051
+  Found 56051 SNPs in chr4:105145874-105279802
+  Limited to 2 SNPs.
+Processing gene: TFE3
+  Total SNPs reported: 5790
+  Found 5790 SNPs in chrX:49028725-49043356
+  Limited to 2 SNPs.
+Processing gene: TFEB
+  Total SNPs reported: 20873
+  Found 20873 SNPs in chr6:41683977-41736222
+  Limited to 2 SNPs.
+Processing gene: TFG
+  Total SNPs reported: 16843
+  Found 16843 SNPs in chr3:100709289-100748966
+  Limited to 2 SNPs.
+Processing gene: TGFBR2
+  Total SNPs reported: 35979
+  Found 35979 SNPs in chr3:30606355-30694141
+  Limited to 2 SNPs.
+Processing gene: THADA
+  Total SNPs reported: 163590
+  Found 163590 SNPs in chr2:43230850-43596037
+  Limited to 2 SNPs.
+Processing gene: TMPRSS2
+  Total SNPs reported: 24338
+  Found 24338 SNPs in chr21:41464304-41508157
+  Limited to 2 SNPs.
+Processing gene: TNFAIP3
+  Total SNPs reported: 7780
+  Found 7780 SNPs in chr6:137866348-137883311
+  Limited to 2 SNPs.
+Processing gene: TNFRSF14
+  Total SNPs reported: 5826
+  Found 5826 SNPs in chr1:2554233-2563828
+  Limited to 2 SNPs.
+Processing gene: TOP1
+  Total SNPs reported: 37549
+  Found 37549 SNPs in chr20:41028821-41124486
+  Limited to 2 SNPs.
+Processing gene: TOP2A
+  Total SNPs reported: 13974
+  Found 13974 SNPs in chr17:40388524-40417895
+  Limited to 2 SNPs.
+Processing gene: TP53
+  Total SNPs reported: 11192
+  Found 11192 SNPs in chr17:7668420-7687489
+  Limited to 2 SNPs.
+Processing gene: TP63
+  Total SNPs reported: 118117
+  Found 118117 SNPs in chr3:189596745-189897275
+  Limited to 2 SNPs.
+Processing gene: TPMT
+  Total SNPs reported: 10619
+  Found 10619 SNPs in chr6:18128310-18155168
+  Limited to 2 SNPs.
+Processing gene: TRAF3
+  Total SNPs reported: 56494
+  Found 56494 SNPs in chr14:102777448-102911499
+  Limited to 2 SNPs.
+Processing gene: TRAF7
+  Total SNPs reported: 13451
+  Found 13451 SNPs in chr16:2155781-2178128
+  Limited to 2 SNPs.
+Processing gene: TRRAP
+  Total SNPs reported: 61837
+  Found 61837 SNPs in chr7:98878531-99013240
+  Limited to 2 SNPs.
+Processing gene: TSC1
+  Total SNPs reported: 24912
+  Found 24912 SNPs in chr9:132891348-132945377
+  Limited to 2 SNPs.
+Processing gene: TSC2
+  Total SNPs reported: 31374
+  Found 31374 SNPs in chr16:2047984-2089490
+  Limited to 2 SNPs.
+Processing gene: TSHR
+  Total SNPs reported: 73023
+  Found 73023 SNPs in chr14:80955620-81146305
+  Limited to 2 SNPs.
+Processing gene: TYK2
+  Total SNPs reported: 16330
+  Found 16330 SNPs in chr19:10350532-10380571
+  Limited to 2 SNPs.
+Processing gene: U2AF1
+  Total SNPs reported: 3910
+  Found 3910 SNPs in chr21:43092955-43107577
+  Limited to 2 SNPs.
+Processing gene: U2AF2
+  Total SNPs reported: 11317
+  Found 11317 SNPs in chr19:55655034-55674715
+  Limited to 2 SNPs.
+Processing gene: USP6
+  Total SNPs reported: 25740
+  Found 25740 SNPs in chr17:5116031-5174990
+  Limited to 2 SNPs.
+Processing gene: USP7
+  Total SNPs reported: 40483
+  Found 40483 SNPs in chr16:8892096-8963905
+  Limited to 2 SNPs.
+Processing gene: VAV1
+  Total SNPs reported: 38372
+  Found 38372 SNPs in chr19:6772707-6857360
+  Limited to 2 SNPs.
+Processing gene: VEGFA
+  Total SNPs reported: 8297
+  Found 8297 SNPs in chr6:43770210-43786486
+  Limited to 2 SNPs.
+Processing gene: VGLL2
+  Total SNPs reported: 3914
+  Found 3914 SNPs in chr6:117265557-117273629
+  Limited to 2 SNPs.
+Processing gene: VHL
+  Total SNPs reported: 6952
+  Found 6952 SNPs in chr3:10141777-10153666
+  Limited to 2 SNPs.
+Processing gene: WHSC1
+  Total SNPs reported: 53298
+  Found 53298 SNPs in chr4:1871392-1982191
+  Limited to 2 SNPs.
+Processing gene: WRN
+  Total SNPs reported: 57634
+  Found 57634 SNPs in chr8:31033809-31176137
+  Limited to 2 SNPs.
+Processing gene: WT1
+  Total SNPs reported: 21581
+  Found 21581 SNPs in chr11:32387774-32435538
+  Limited to 2 SNPs.
+Processing gene: XPC
+  Total SNPs reported: 15501
+  Found 15501 SNPs in chr3:14145146-14178600
+  Limited to 2 SNPs.
+Processing gene: XPO1
+  Total SNPs reported: 32439
+  Found 32439 SNPs in chr2:61477848-61538611
+  Limited to 2 SNPs.
+Processing gene: XRCC2
+  Total SNPs reported: 13295
+  Found 13295 SNPs in chr7:152644775-152676140
+  Limited to 2 SNPs.
+Processing gene: YAP1
+  Total SNPs reported: 52498
+  Found 52498 SNPs in chr11:102110446-102233423
+  Limited to 2 SNPs.
+Processing gene: YWHAE
+  Total SNPs reported: 30596
+  Found 30596 SNPs in chr17:1344274-1400221
+  Limited to 2 SNPs.
+Processing gene: ZBTB2
+  Total SNPs reported: 12349
+  Found 12349 SNPs in chr6:151364114-151391558
+  Limited to 2 SNPs.
+Processing gene: ZCCHC7
+  Total SNPs reported: 92639
+  Found 92639 SNPs in chr9:37120166-37358148
+  Limited to 2 SNPs.
+Processing gene: ZFTA
+  Total SNPs reported: 5424
+  Found 5424 SNPs in chr11:63759891-63768774
+  Limited to 2 SNPs.
+Processing gene: ZMYM3
+  Total SNPs reported: 6021
+  Found 6021 SNPs in chrX:71239623-71255289
+  Limited to 2 SNPs.
+Processing gene: ZNF217
+  Total SNPs reported: 14815
+  Found 14815 SNPs in chr20:53567070-53597701
+  Limited to 2 SNPs.
+Processing gene: ZNF384
+  Total SNPs reported: 10818
+  Found 10818 SNPs in chr12:6666476-6689571
+  Limited to 2 SNPs.
+Processing gene: ZNF703
+  Total SNPs reported: 2648
+  Found 2648 SNPs in chr8:37695781-37700018
+  Limited to 2 SNPs.
+Processing gene: ZNF750
+  Total SNPs reported: 5272
+  Found 5272 SNPs in chr17:82829433-82840021
+  Limited to 2 SNPs.
+Processing gene: ZRSR2
+  Total SNPs reported: 10132
+  Found 10132 SNPs in chrX:15790483-15823259
+  Limited to 2 SNPs.
